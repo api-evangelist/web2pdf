@@ -1,0 +1,38 @@
+{
+    "name": "Web2PDF",
+    "description": "Create PDF easily with our developers API\/SDK for Ruby Java .NET C# PHP Shell Delphi.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/670-web2pdf.jpg",
+    "tags": [
+        "conversions",
+        "have api",
+        "office",
+        "pdf"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/web2pdf\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Web2PDF",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/670-web2pdf.jpg",
+            "humanURL": "",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/web2pdf-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ConvertAPI_"
+        }
+    ]
+}
